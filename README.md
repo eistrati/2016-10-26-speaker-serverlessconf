@@ -1,4 +1,4 @@
-# Speaker @ Serverless Conference
+# Speaker @ ServerlessConf
 
 ## etc.venues London | October 26th, 2016
 http://london.serverlessconf.io
